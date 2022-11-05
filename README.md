@@ -1,7 +1,1 @@
-# note
-
-```
-test
-```
-
-image.png
+# Note
